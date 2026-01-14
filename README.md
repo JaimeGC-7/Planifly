@@ -2,7 +2,8 @@ Planifly - Sistema de Gestión de Itinerarios
 Este repositorio contiene el código fuente y las configuraciones de seguridad para Planifly, desarrollado en el marco del curso de Calidad de Software.
 
 Versión de Entrega
-Se ha generado el TAG: v1.0.0-final que corresponde a la versión estable tras el ciclo de pruebas y corrección de defectos.
+https://app.flutterflow.io/run/MPB5mcTo0pcTELB8yBhv
+Se ha generado un link que corresponde a la versión estable pero no completa de la app Planifly tras el ciclo de pruebas y corrección de defectos.
 
 Stack Tecnológico
 Frontend: FlutterFlow (Flutter SDK).

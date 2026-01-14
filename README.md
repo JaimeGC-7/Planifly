@@ -1,4 +1,4 @@
-#Planifly - Sistema de Gestión de Itinerarios
+Planifly - Sistema de Gestión de Itinerarios
 Este repositorio contiene el código fuente y las configuraciones de seguridad para Planifly, desarrollado en el marco del curso de Calidad de Software.
 
 Versión de Entrega

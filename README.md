@@ -1,12 +1,12 @@
 Planifly - Sistema de Gestión de Itinerarios
 Este proyecto ha sido desarrollado como parte del curso de Calidad de Software, utilizando un enfoque de desarrollo ágil y despliegue continuo mediante FlutterFlow.
 
-Acceso a la Aplicación
+Acceso a la Aplicación:
 Para revisar la funcionalidad de la aplicación y validar los requisitos de calidad implementados se puede acceder al siguiente enlace de una versión estable pero aun no completa:
 
 https://app.flutterflow.io/run/MPB5mcTo0pcTELB8yBhv
 
-Stack Tecnológico
+Stack Tecnológico utilizado:
 Frontend: FlutterFlow (Flutter SDK).
 
 Backend & DB: Firebase Firestore.

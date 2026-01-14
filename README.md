@@ -1,10 +1,10 @@
 Planifly - Sistema de Gestión de Itinerarios
-Este repositorio contiene el código fuente y las configuraciones de seguridad para Planifly, desarrollado en el marco del curso de Calidad de Software.
+Este proyecto ha sido desarrollado como parte del curso de Calidad de Software, utilizando un enfoque de desarrollo ágil y despliegue continuo mediante FlutterFlow.
 
-Versión de Entrega:
+Acceso a la Aplicación
+Para revisar la funcionalidad de la aplicación y validar los requisitos de calidad implementados se puede acceder al siguiente enlace de una versión estable pero aun no completa:
+
 https://app.flutterflow.io/run/MPB5mcTo0pcTELB8yBhv
-
-Se ha generado un link que corresponde a la versión estable pero no completa de la app Planifly tras el ciclo de pruebas y corrección de defectos.
 
 Stack Tecnológico
 Frontend: FlutterFlow (Flutter SDK).
@@ -13,12 +13,11 @@ Backend & DB: Firebase Firestore.
 
 Autenticación: Firebase Auth.
 
-Seguridad y QA (DevSecOps)
-Validación de Datos: Manejo de nulos para estabilidad de UI.
+Calidad y Seguridad (DevSecOps)
+La versión disponible en el enlace superior incluye las siguientes mejoras críticas de calidad documentadas en el informe:
 
-Seguridad Firestore: Reglas de acceso basadas en usuario autenticado (UID).
+Validación de Datos: Gestión de estados nulos para garantizar estabilidad de la interfaz (0 pantallas rojas).
 
-Optimización: Índices compuestos habilitados para consultas de alto rendimiento.
+Seguridad de Datos: Reglas de acceso en Firebase basadas estrictamente en el UID del usuario autenticado.
 
-Documentación Incluida
-Toda la documentación técnica (Plan de Pruebas, Registro de Defectos e Informe Final) se encuentra organizada en las carpetas correspondientes del archivo ZIP de entrega.
+Rendimiento: Índices compuestos habilitados en Firestore para consultas optimizadas de itinerarios.
